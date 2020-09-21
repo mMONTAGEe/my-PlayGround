@@ -1,2 +1,2 @@
 // Good language lol.
-print(Welcome to my playground)
+print("Welcome to my playground")
